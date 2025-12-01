@@ -84,7 +84,7 @@ Business intelligence dashboard analysing sales, revenue and customer trends.
 
 ## 📬 Get in Touch!
 
-📧 Email: s10268377@connect.np.edu.sg *(replace with your actual email if you want)*  
+📧 Email: s10268377@connect.np.edu.sg  
 🔗 LinkedIn: https://www.linkedin.com/in/cheong-wei-en-222911303  
 🐙 GitHub: https://github.com/cheongweien  
 
