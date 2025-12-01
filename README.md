@@ -3,7 +3,7 @@
 🎓 **Year 2 Data Science Student @ Ngee Ann Polytechnic**  
 🧠 Specialising in **Machine Learning, Deep Learning & Generative AI**  
 📊 Passionate about **data-driven insights, AI applications, and real-world problem solving**  
-💼 Actively seeking **AI/ML or BI Analyst internships** for 2025/2026  
+💼 Actively seeking **AI/ML or BI Analyst internships** for 2026/2027 
 
 ---
 
@@ -75,9 +75,8 @@ Business intelligence dashboard analysing sales, revenue and customer trends.
 ## 🏆 Highlights
 
 - 🎖️ **Director’s List** (NP – Academic Excellence)  
-- 🧩 **Secretary @ AI Student Interest Group (AISIG)**  
+- 🧩 **Secretary @ NP AI Student Interest Group (NP AISIG)**  
 - 🤝 Led student AI projects & initiatives  
-- 🧓 Volunteered to teach seniors how to use AI tools & mobile apps  
 - 🎤 Conducted workshops and supported AI outreach programmes  
 
 ---
